@@ -1,0 +1,30 @@
+.DS_Store
+.gitignore
+.npmignore
+
+
+/node_modules
+
+
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+
+# Configuration
+/*.js
+/*.json
+
+!package.json
+
+/kit
+/preset
